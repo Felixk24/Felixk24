@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Felix
+- 👀 I’m interested in learning new things about the dev environment bescause I am learning programming at the moment
+- 🌱 I’m currently learning javascript and everything I can get 
